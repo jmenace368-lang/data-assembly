@@ -3,7 +3,7 @@
     {
       "name": "The Optimates",
       "color": "#93489d",
-      "seats": 5,
+      "seats": 4,
       "stroke": "",
       "strokeWidth": 1.75,
       "logo": "https://i.ibb.co/MxV0LCgH/logo-rew-ot.png",
@@ -12,9 +12,10 @@
     {
       "name": "Combine Labour Co-operative",
       "color": "#c52237",
-      "seats": 3,
-      "logo": "https://i.ibb.co/0ydBg5Tq/clc.png",
+      "seats": 5,
       "stroke": "",
+      "strokeWidth": 1.75,
+      "logo": "https://i.ibb.co/0ydBg5Tq/clc.png",
       "description": ""
     },
     {
@@ -232,6 +233,6 @@
     "denseRows": false,
     "electionDate": "TBA"
   },
-  "updatedAt": 1783841848989,
+  "updatedAt": 1783841918357,
   "source": "github-publish"
 }
