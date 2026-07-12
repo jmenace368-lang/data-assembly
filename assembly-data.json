@@ -1,0 +1,221 @@
+{
+  "parties": [
+    {
+      "name": "The Optimates",
+      "color": "#93489d",
+      "seats": 2,
+      "stroke": "",
+      "logo": "https://i.ibb.co/MxV0LCgH/logo-rew-ot.png",
+      "description": ""
+    },
+    {
+      "name": "Combine Labour Co-operative",
+      "color": "#c52237",
+      "seats": 3,
+      "logo": "https://i.ibb.co/0ydBg5Tq/clc.png",
+      "stroke": "",
+      "description": ""
+    },
+    {
+      "name": "The Harmony Collective",
+      "color": "#dbb542",
+      "seats": 1,
+      "stroke": "",
+      "logo": "https://i.ibb.co/C3d5FJkx/harmonymaybe.png",
+      "description": ""
+    }
+  ],
+  "coalitions": [],
+  "roster": [
+    {
+      "rank": "Chairperson",
+      "cid": "#11111",
+      "name": "Karl Söderberg",
+      "party": "The Harmony Collective",
+      "partyColor": ""
+    },
+    {
+      "rank": "Councillor",
+      "cid": "#11111",
+      "name": "Aurelio Piccardi",
+      "party": "The Harmony Collective",
+      "partyColor": ""
+    },
+    {
+      "rank": "Councillor",
+      "cid": "#11111",
+      "name": "Julius Knightly",
+      "party": "The Optimates",
+      "partyColor": ""
+    },
+    {
+      "rank": "Councillor",
+      "cid": "#11111",
+      "name": "Rupert Rhodes",
+      "party": "The Optimates",
+      "partyColor": ""
+    },
+    {
+      "rank": "Councillor",
+      "cid": "#11111",
+      "name": "Horatio Kingsley",
+      "party": "Combine Labour Co-operative",
+      "partyColor": ""
+    },
+    {
+      "rank": "Councillor",
+      "cid": "#11111",
+      "name": "Tim Keyes",
+      "party": "Combine Labour Co-operative",
+      "partyColor": ""
+    },
+    {
+      "rank": "Councillor",
+      "cid": "#11111",
+      "name": "Youssef Sayagh",
+      "party": "Combine Labour Co-operative",
+      "partyColor": ""
+    }
+  ],
+  "bills": [],
+  "decrees": [],
+  "committees": [
+    {
+      "category": "Special Committees",
+      "status": "inactive",
+      "title": "The Affairs Commission",
+      "date": "",
+      "classOverride": "pinned",
+      "members": [
+        {
+          "name": "Karina Orlova",
+          "chair": true
+        }
+      ],
+      "description": "Oversees the Loyalist system, its Collaborators, and its integrity."
+    }
+  ],
+  "committeeCategoryColors": {
+    "Special Committees": "#c52237",
+    "Standing Committees": "#1e90ff",
+    "Ad Hoc Committees": "#32cd32"
+  },
+  "statusCatalogs": {
+    "bills": [
+      {
+        "value": "active",
+        "color": "#41cd89",
+        "background": "rgba(65, 205, 137, 0.15)"
+      },
+      {
+        "value": "pending",
+        "color": "#2980b9",
+        "background": "rgba(41, 128, 185, 0.15)"
+      },
+      {
+        "value": "passed",
+        "color": "#41cd89",
+        "background": "rgba(65, 205, 137, 0.15)"
+      },
+      {
+        "value": "rejected",
+        "color": "#d12121",
+        "background": "rgba(209, 33, 33, 0.15)"
+      },
+      {
+        "value": "withdrawn",
+        "color": "#8223ff",
+        "background": "rgba(130, 35, 255, 0.08)"
+      },
+      {
+        "value": "rescinded",
+        "color": "rgb(255, 81, 0)",
+        "background": "rgba(100, 44, 11, 0.15)"
+      },
+      {
+        "value": "vetoed",
+        "color": "#ff6161",
+        "background": "rgba(255, 57, 57, 0.08)"
+      },
+      {
+        "value": "expired",
+        "color": "#9ca3af",
+        "background": "rgba(107, 114, 128, 0.15)"
+      },
+      {
+        "value": "on hold",
+        "color": "#2980b9",
+        "background": "rgba(41, 128, 185, 0.15)"
+      },
+      {
+        "value": "inactive",
+        "color": "#888888",
+        "background": "rgba(107, 114, 128, 0.3)"
+      }
+    ],
+    "decrees": [
+      {
+        "value": "active",
+        "color": "#41cd89",
+        "background": "rgba(65, 205, 137, 0.15)",
+        "skipExpiry": false
+      },
+      {
+        "value": "pending",
+        "color": "#2980b9",
+        "background": "rgba(41, 128, 185, 0.15)",
+        "skipExpiry": true
+      },
+      {
+        "value": "on hold",
+        "color": "#2980b9",
+        "background": "rgba(41, 128, 185, 0.15)",
+        "skipExpiry": true
+      },
+      {
+        "value": "withdrawn",
+        "color": "#8223ff",
+        "background": "rgba(130, 35, 255, 0.08)",
+        "skipExpiry": true
+      },
+      {
+        "value": "rescinded",
+        "color": "rgb(255, 81, 0)",
+        "background": "rgba(100, 44, 11, 0.15)",
+        "skipExpiry": true
+      },
+      {
+        "value": "expired",
+        "color": "#9ca3af",
+        "background": "rgba(107, 114, 128, 0.15)",
+        "skipExpiry": false
+      },
+      {
+        "value": "inactive",
+        "color": "#888888",
+        "background": "rgba(107, 114, 128, 0.3)",
+        "skipExpiry": false
+      }
+    ],
+    "committees": [
+      {
+        "value": "active",
+        "color": "#41cd89",
+        "background": "rgba(65, 205, 137, 0.15)"
+      },
+      {
+        "value": "inactive",
+        "color": "#888888",
+        "background": "rgba(107, 114, 128, 0.3)"
+      }
+    ]
+  },
+  "chamber": {
+    "totalSeats": 8,
+    "displaySeatCount": 0,
+    "showSeatFraction": false,
+    "denseRows": false
+  },
+  "updatedAt": 1783837209767,
+  "source": "github-upload"
+}
