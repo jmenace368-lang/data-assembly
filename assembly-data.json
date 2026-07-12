@@ -12,7 +12,7 @@
     {
       "name": "Combine Labour Co-operative",
       "color": "#c52237",
-      "seats": 5,
+      "seats": 3,
       "stroke": "",
       "strokeWidth": 1.75,
       "logo": "https://i.ibb.co/0ydBg5Tq/clc.png",
@@ -233,6 +233,6 @@
     "denseRows": false,
     "electionDate": "TBA"
   },
-  "updatedAt": 1783842853595,
+  "updatedAt": 1783842884268,
   "source": "github-publish"
 }
