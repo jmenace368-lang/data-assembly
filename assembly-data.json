@@ -93,6 +93,20 @@
         }
       ],
       "description": "Oversees the Loyalist system, its Collaborators, and its integrity."
+    },
+    {
+      "category": "Standing Committees",
+      "status": "active",
+      "title": "Eric's Committee",
+      "date": "",
+      "classOverride": "pinned",
+      "members": [
+        {
+          "name": "Eric",
+          "chair": true
+        }
+      ],
+      "description": "Eric's Committee."
     }
   ],
   "committeeCategoryColors": {
@@ -216,6 +230,6 @@
     "showSeatFraction": false,
     "denseRows": false
   },
-  "updatedAt": 1783837987365,
+  "updatedAt": 1783839244068,
   "source": "github-publish"
 }
