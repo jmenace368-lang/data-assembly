@@ -3,7 +3,7 @@
     {
       "name": "The Optimates",
       "color": "#93489d",
-      "seats": 4,
+      "seats": 7,
       "stroke": "",
       "strokeWidth": 1.75,
       "logo": "https://i.ibb.co/MxV0LCgH/logo-rew-ot.png",
@@ -233,6 +233,6 @@
     "denseRows": false,
     "electionDate": "TBA"
   },
-  "updatedAt": 1783842481786,
+  "updatedAt": 1783842781449,
   "source": "github-publish"
 }
