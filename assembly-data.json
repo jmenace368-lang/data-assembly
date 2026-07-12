@@ -3,7 +3,7 @@
     {
       "name": "The Optimates",
       "color": "#93489d",
-      "seats": 4,
+      "seats": 2,
       "stroke": "",
       "strokeWidth": 1.75,
       "logo": "https://i.ibb.co/MxV0LCgH/logo-rew-ot.png",
@@ -12,7 +12,7 @@
     {
       "name": "Combine Labour Co-operative",
       "color": "#c52237",
-      "seats": 5,
+      "seats": 3,
       "stroke": "",
       "strokeWidth": 1.75,
       "logo": "https://i.ibb.co/0ydBg5Tq/clc.png",
@@ -21,7 +21,7 @@
     {
       "name": "The Harmony Collective",
       "color": "#dbb542",
-      "seats": 3,
+      "seats": 1,
       "stroke": "",
       "strokeWidth": 1.75,
       "logo": "https://i.ibb.co/C3d5FJkx/harmonymaybe.png",
@@ -220,6 +220,6 @@
     "denseRows": false,
     "electionDate": "TBA"
   },
-  "updatedAt": 1783843213752,
+  "updatedAt": 1783843499643,
   "source": "github-publish"
 }
