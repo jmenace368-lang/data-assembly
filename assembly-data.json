@@ -214,12 +214,12 @@
     ]
   },
   "chamber": {
+    "electionDate": "TBA",
     "totalSeats": 8,
     "displaySeatCount": 0,
     "showSeatFraction": false,
-    "denseRows": false,
-    "electionDate": "TBA"
+    "denseRows": true
   },
-  "updatedAt": 1783843499643,
+  "updatedAt": 1783843904409,
   "source": "github-publish"
 }
