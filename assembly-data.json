@@ -3,7 +3,7 @@
     {
       "name": "The Optimates",
       "color": "#93489d",
-      "seats": 2,
+      "seats": 20,
       "stroke": "",
       "logo": "https://i.ibb.co/MxV0LCgH/logo-rew-ot.png",
       "description": ""
@@ -216,6 +216,6 @@
     "showSeatFraction": false,
     "denseRows": false
   },
-  "updatedAt": 1783837209767,
-  "source": "github-upload"
+  "updatedAt": 1783837987365,
+  "source": "github-publish"
 }
